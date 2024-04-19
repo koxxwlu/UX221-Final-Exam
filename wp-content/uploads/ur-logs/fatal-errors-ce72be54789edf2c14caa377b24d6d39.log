@@ -1,0 +1,36 @@
+2024-04-19T20:49:03+00:00 CRITICAL Out of memory (allocated 35651584) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/search.php on line 249
+
+2024-04-19T20:49:03+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/search.php on line 249
+
+2024-04-19T20:49:03+00:00 CRITICAL Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/search.php on line 249
+
+2024-04-19T20:49:04+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/search.php on line 249
+
+2024-04-19T20:49:04+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/search.php on line 249
+
+2024-04-19T20:49:05+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/search.php on line 249
+
+2024-04-19T20:49:05+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/search.php on line 249
+
+2024-04-19T20:49:05+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/search.php on line 249
+
+2024-04-19T20:49:06+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/search.php on line 249
+
+2024-04-19T20:49:06+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/search.php on line 249
+
+2024-04-19T20:49:07+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/search.php on line 249
+
+2024-04-19T20:49:23+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/search.php on line 249
+
+2024-04-19T20:49:40+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/image-sizes.php on line 51
+
+2024-04-19T20:49:46+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/image-sizes.php on line 55
+
+2024-04-19T20:49:54+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/search.php on line 249
+
+2024-04-19T20:50:06+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/image-sizes.php on line 51
+
+2024-04-19T20:50:10+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/image-sizes.php on line 55
+
+2024-04-19T20:50:10+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/settings/search.php on line 57
+
