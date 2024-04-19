@@ -8,7 +8,7 @@ customElements.define("x-year", CopyrightYear);
 
 class CustomURL extends HTMLElement{
     connectedCallback(){
-        this.innerHTML = '<a href = "products">Products</a>''<a href = "registration">Registration</a>'
+        this.innerHTML = '<a href = "products">Go to Products page.</a>   <a href = "registration">Go to Registration page.</a>'
     }
 }
 
